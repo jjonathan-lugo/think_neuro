@@ -1,2 +1,5 @@
-Just to test status branching
+Just to test status branching.
+
+When a branch is created when I add the Jonthan.txt file it only updated in the branch not in main
+and for it to be in main I would need to merge it into the main 
 
