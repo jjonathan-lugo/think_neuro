@@ -4,4 +4,4 @@ Today is cold!!!!
 Started this a bit late mb
 
 
-[Visit YouTube For Orientation Video](https://www.youtube.com/watch?v=7JqvifmXaB)
+[Visit YouTube For Orientation Video](https://youtu.be/7JqvifmXaBA)
